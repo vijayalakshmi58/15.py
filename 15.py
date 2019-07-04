@@ -1,5 +1,5 @@
 # 15.py
 v,g=map(int,input().split())
-for i in range(v+1,g):
-    if(i%2==0):
-       print(i,end=' ')
+for j in range(v+1,g):
+    if(j%2==0):
+       print(j,end=' ')
